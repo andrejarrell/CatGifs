@@ -48,5 +48,15 @@ export let cats = [
     'https://media.giphy.com/media/NqZn5kPN8VVrW/giphy.gif',
     'https://media.giphy.com/media/aC45M5Q4D07Pq/giphy.gif',
     'https://media.giphy.com/media/10rW4Xw9eO0RmU/giphy.gif',
-    'https://media.giphy.com/media/JQRKxN6GuhGhy/giphy.gif'
+    'https://media.giphy.com/media/JQRKxN6GuhGhy/giphy.gif',
+    'https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif',
+    'https://media.tenor.com/images/75b3c8eca95d917c650cd574b91db7f7/tenor.gif',
+    'https://media.tenor.com/images/043a3299edb9161b14a71b87afacf54f/tenor.gif',
+    'https://media.tenor.com/images/800a46ca3a946f908b8a5c7cd2eabe35/tenor.gif',
+    'https://media.tenor.com/images/82517b1fbf01e0db1c2636319e2c6965/tenor.gif',
+    'https://media.tenor.com/images/1fb75222fa88b51d91d414e45b9dc6f5/tenor.gif',
+    'https://media.tenor.com/images/bb33cc1eaafa266ac1092ecff7c1c85d/tenor.gif',
+    'https://media.giphy.com/media/WsjD6gvYnTDIKe7P4f/giphy.gif',
+    'https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif',
+    'https://media.giphy.com/media/anfRDz1ebNlza/giphy-downsized.gif'
 ];
