@@ -38,7 +38,15 @@ export let cats = [
     'https://media.giphy.com/media/HMSLfCl5BsXoQ/giphy.gif',
     'https://media.giphy.com/media/aSJDZO4q5mjT2/giphy.gif',
     'https://media.giphy.com/media/KLB8IXYVZevYY/giphy.gif',
-    'https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif',
     'https://media.giphy.com/media/WsjD6gvYnTDIKe7P4f/giphy.gif',
-    'https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif'
+    'https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif',
+    'https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif',
+    'https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif',
+    'https://media.giphy.com/media/8Ag4AORS8xPYHdeU6f/giphy.gif',
+    'https://media.giphy.com/media/ExMGjbktr4phe/giphy.gif',
+    'https://media.giphy.com/media/TDLOYClGqUTFDYueEw/giphy.gif',
+    'https://media.giphy.com/media/NqZn5kPN8VVrW/giphy.gif',
+    'https://media.giphy.com/media/aC45M5Q4D07Pq/giphy.gif',
+    'https://media.giphy.com/media/10rW4Xw9eO0RmU/giphy.gif',
+    'https://media.giphy.com/media/JQRKxN6GuhGhy/giphy.gif'
 ];
