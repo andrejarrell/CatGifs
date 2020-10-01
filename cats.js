@@ -74,4 +74,11 @@ export let cats = [
     'https://media.tenor.com/images/bbac2594edd848f3b1a58bdf87b5bb7b/tenor.gif',
     'https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif',
     'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif',
+    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif',
+    'https://media.tenor.com/images/eff22afc2220e9df92a7aa2f53948f9f/tenor.gif',
+    'https://gfycat.com/knobbyimperfectcoypu.gif',
+    'https://thumbs.gfycat.com/IncomparableWelltodoEthiopianwolf-size_restricted.gif',
+    'https://thumbs.gfycat.com/FalseBowedAfricanharrierhawk-size_restricted.gif',
+    'https://thumbs.gfycat.com/SpotlessGlisteningBullmastiff-max-1mb.gif',
+    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif'
 ];
