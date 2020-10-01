@@ -25,7 +25,7 @@ export let cats = [
     'https://media.giphy.com/media/7VZrSiHHHUlKU/giphy.gif',
     'https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif',
     'https://media.giphy.com/media/FatZQeOFWW8E0/giphy.gif',
-    'https://media.giphy.com/media/KjqnOCVXbIkiA/giphy.gif', 
+    'https://media.giphy.com/media/KjqnOCVXbIkiA/giphy.gif',
     'https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif',
     'https://media.giphy.com/media/KAhqdjgzVptM4/giphy.gif',
     'https://media.giphy.com/media/CPlkqEvq8gRDW/giphy.gif',
@@ -73,5 +73,14 @@ export let cats = [
     'https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif',
     'https://media.tenor.com/images/bbac2594edd848f3b1a58bdf87b5bb7b/tenor.gif',
     'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif',
-    'https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif'
+    'https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif',
+    'https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif',
+    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif',
+    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif',
+    'https://media.tenor.com/images/eff22afc2220e9df92a7aa2f53948f9f/tenor.gif',
+    'https://gfycat.com/knobbyimperfectcoypu.gif',
+    'https://thumbs.gfycat.com/IncomparableWelltodoEthiopianwolf-size_restricted.gif',
+    'https://thumbs.gfycat.com/FalseBowedAfricanharrierhawk-size_restricted.gif',
+    'https://thumbs.gfycat.com/SpotlessGlisteningBullmastiff-max-1mb.gif',
+    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif'
 ];
