@@ -13,7 +13,7 @@
                 <i class="fas fa-cat"></i> Nothing But Awesome Cat Gifs!
                 <i class="fab fa-github-alt"></i> Contribute On 
                 <a href="https://github.com/andrejarrell/catgifs" target="_blank"> GitHub!</a>
-                <i class="fas fa-file-upload"></i> Total Gifs: {{ cats.length }}
+                <i class="fas fa-file-upload"></i> Displayed Gifs: {{ cats.length }}
             </div>
 
             <div class="card-columns">
@@ -22,7 +22,7 @@
                 </div>
             </div>
 
-            <a @click="load" v-if="loaded < cats.length" class="btn btn-shadow text-mono btn-info mb-4">
+            <a @click="load" class="btn btn-shadow text-mono btn-info mb-4">
                 <i class="fas fa-plus"></i> Load More
             </a>
         </div>
