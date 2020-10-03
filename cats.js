@@ -8,7 +8,7 @@ export let getCats = () =>{
     Http.send();
 
 //When we receive the Request Content:
-    Http.onreadystatechange = (e) => {
+    Http.onloadend = (e) => {
         let responseObjectData = JSON.parse(Http.responseText).data;
         for(let i in responseObjectData){
             let completeURL = responseObjectData[i].images.original.url;

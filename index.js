@@ -8,7 +8,7 @@ window.app = new Vue({
     el: '#cats',
     data: {
         loaded: 12,
-        cats: getCats(0)
+        cats: getCats()
     },
     methods: {
         load() {
