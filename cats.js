@@ -92,5 +92,5 @@ export let cats = [
     'https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif',
     'https://i.imgur.com/HvdM0WJ.gif',
     'https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif',
-    'https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998',
+    'https://media1.tenor.com/images/34c89435b2d4fdf7eda92070013058d5/tenor.gif?itemid=13655998',
 ];
