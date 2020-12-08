@@ -1,12 +1,14 @@
+<img src="https://api.netlify.com/api/v1/badges/b5290dfc-17df-4231-aee3-63482a202f3d/deploy-status">
+
 # 🐱 CatGifs
 
 <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/site.png">
 
 # <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" width="30"> Contributing
 
-### 1. 🍴 Fork Repo
+## 1. 🍴 Fork Repo
 
-### 2. 📝 Edit
+## 2. 📝 Edit
 
 `cats.js`
 ```js
@@ -21,6 +23,12 @@ export let cats = [
 ];
 ```
 
-### 3. ⚡ Create Pull Request
+## 3. ⚡ Create Pull Request
 
-### 4. ⏰ Wait. Your changes will be merged soon!
+## 4. ⏰ Wait. Your changes will be merged soon!
+
+### [`alan`](https://github.com/andrejarrell/CatGifs/tree/alan) Branch
+
+Giving a shoutout to alan for his version of the site that use's giphy's api to load the gifs
+
+🔗 https://alan-catgifs.netlify.app

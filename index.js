@@ -4,11 +4,11 @@ document.addEventListener('DOMContentLoaded', yall({
     observeChanges: true
 }));
 
-new Vue({
+window.app = new Vue({
     el: '#cats',
     data: {
         loaded: 12,
-        cats: _.shuffle(cats)
+        cats: _.shuffle(_.uniq(cats))
     },
     methods: {
         load() {
